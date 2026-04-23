@@ -4,7 +4,7 @@ import pandas as pd
 from datetime import datetime, timedelta, timezone
 from io import BytesIO
 
-YOUTUBE_API_KEY = st.secrets["AIzaSyBzDL7Q8bOCidXPtNHDJN8q3CRV6a-W7Uk"]
+YOUTUBE_API_KEY = st.secrets[""]
 
 YOUTUBE_SEARCH_URL = "https://www.googleapis.com/youtube/v3/search"
 YOUTUBE_VIDEO_URL = "https://www.googleapis.com/youtube/v3/videos"

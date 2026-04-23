@@ -9,7 +9,7 @@ from io import BytesIO
 # =========================================================
 # CONFIG
 # =========================================================
-YOUTUBE_API_KEY = st.secrets.get("YOUTUBE_API_KEY", "")
+YOUTUBE_API_KEY = st.secrets.get("AIzaSyBzDL7Q8bOCidXPtNHDJN8q3CRV6a-W7Uk", "")
 APIFY_TOKEN = st.secrets.get("APIFY_TOKEN", "")
 
 # Recommended Apify actor ids from the repo you shared
